@@ -1,0 +1,193 @@
+Order ID,Order Date,Customer Name,Region,Category,Sub-Category,Product Name,Department,Quantity,Sales,Discount,Profit
+ORD-1166,2025-04-11,Rohan Mehta,East,Technology,Machines,Machines Model 131,Corporate,6,1890.96,0.2,383.98
+ORD-1156,2025-11-21,Aarav Sharma,South,Office Supplies,Binders,Binders Model 101,Consumer,10,1565.3,0,215.04
+ORD-1064,2024-10-22,,South,Technology,Machines,Machines Model 561,Corporate,4,2003.92,0,267.88
+ORD-1136,2025-07-08,Sanjay Reddy,South,Technology,Phones,Phones Model 739,Consumer,11,6111.93,0.15,1261.89
+ORD-1176,2024-04-06,Aditya Joshi,West,Furniture,Bookcases,Bookcases Model 966,Consumer,6,3415.68,0.15,924.65
+ORD-1090,2024-05-04,Karan Malhotra,North,Technology,Machines,Machines Model 144,Corporate,10,2390.4,0.3,472.97
+ORD-1082,2024-08-13,Pooja Desai,South,Furniture,Tables,Tables Model 137,Corporate,11,6247.34,0.3,1216.39
+ORD-1067,2023-02-05,Sanjay Reddy,South,Furniture,Furnishings,Furnishings Model 413,Home Office,2,374.26,0.1,86.75
+ORD-1059,2024-06-08,Sanjay Reddy,West,Office Supplies,Binders,Binders Model 835,Home Office,6,678.96,0.15,195.71
+ORD-1062,2023-05-22,Meera Pillai,South,Furniture,Bookcases,Bookcases Model 942,Home Office,9,3544.29,0,1080.56
+ORD-1006,2024-07-23,,East,Office Supplies,Binders,Binders Model 463,Consumer,8,3095.04,0,305.78
+ORD-1002,2024-03-23,Rohan Mehta,East,Furniture,Furnishings,Furnishings Model 833,Consumer,4,1242.52,0,271.33
+ORD-1081,2025-10-04,Divya Menon,West,Technology,Machines,Machines Model 786,Corporate,2,579.92,0.1,78.29
+ORD-1046,2024-02-12,Isha Kapoor,North,Office Supplies,Binders,Binders Model 725,Consumer,3,87.87,0,30.33
+ORD-1001,2024-04-02,Isha Kapoor,North,Technology,Phones,Phones Model 658,Consumer,3,1337.52,0.2,291.26
+ORD-1058,2024-05-21,Aarav Sharma,East,Furniture,Chairs,Chairs Model 229,Home Office,4,2023.8,0.15,164.65
+ORD-1147,2025-02-10,Vikram Rao,North,Technology,Phones,Phones Model 739,Home Office,3,329.73,0.3,59.52
+ORD-1055,2023-09-19,Sanjay Reddy,West,Technology,Machines,Machines Model 778,Home Office,10,3274.6,0.1,670.67
+ORD-1113,2024-05-28,Vikram Rao,West,Furniture,Chairs,Chairs Model 115,Corporate,3,237.93,0.3,9.62
+ORD-1083,2023-08-26,Aditya Joshi,North,Office Supplies,Binders,Binders Model 773,Corporate,7,3646.79,0.3,884.36
+ORD-1029,2024-03-12,Rohan Mehta,East,Furniture,Chairs,Chairs Model 350,Corporate,9,1531.26,0,481.21
+ORD-1134,2023-06-06,Ananya Gupta,North,Office Supplies,Storage,Storage Model 894,Consumer,9,3468.96,0.15,598.53
+ORD-1052,2024-11-08,Divya Menon,South,Furniture,Tables,Tables Model 530,Consumer,9,2588.13,0,290.0
+ORD-1098,2023-06-01,Ananya Gupta,North,Office Supplies,Binders,Binders Model 534,Corporate,8,4543.68,0.15,539.72
+ORD-1139,2024-01-21,Sanjay Reddy,East,Furniture,Furnishings,Furnishings Model 163,Corporate,6,2213.58,0.15,179.23
+ORD-1009,2025-07-28,Rahul Bhat,South,Technology,Copiers,Copiers Model 651,Consumer,3,509.85,0,139.44
+ORD-1024,2024-06-27,Rahul Bhat,East,Furniture,Tables,Tables Model 902,Corporate,8,1454.96,0.2,392.48
+ORD-1026,2023-04-27,Ananya Gupta,South,Furniture,Chairs,Chairs Model 169,Home Office,9,556.83,0,39.29
+ORD-1109,2023-07-22,Divya Menon,West,Technology,Machines,Machines Model 479,Home Office,8,3001.28,0,179.52
+ORD-1144,2023-09-19,Aditya Joshi,South,Furniture,Bookcases,Bookcases Model 639,Home Office,11,4687.76,0.2,1309.38
+ORD-1126,2023-11-19,Aditya Joshi,South,Furniture,Furnishings,Furnishings Model 681,Corporate,6,1183.86,0,335.09
+ORD-1100,2023-01-17,Arjun Singh,South,Office Supplies,Storage,Storage Model 150,Consumer,10,5210.6,0.3,997.21
+ORD-1085,2025-06-16,Neha Verma,West,Furniture,Tables,Tables Model 723,Corporate,12,3582.72,0,1225.09
+ORD-1167,2024-04-28,Rohan Mehta,West,Furniture,Furnishings,Furnishings Model 133,Consumer,11,2522.3,0.1,760.11
+ORD-1162,2024-11-10,Priya Nair,North,Technology,Accessories,Accessories Model 509,Corporate,5,439.1,0,79.51
+ORD-1038,2024-01-31,Aarav Sharma,West,Office Supplies,Storage,Storage Model 891,Consumer,7,1449.21,0.3,71.85
+ORD-1078,2024-08-14,Neha Verma,West,Furniture,Chairs,Chairs Model 512,Consumer,8,702.0,0.2,79.31
+ORD-1155,2024-09-08,Isha Kapoor,North,Technology,Machines,Machines Model 737,Consumer,2,85.86,0.1,18.68
+ORD-1157,2023-06-25,Ananya Gupta,South,Technology,Copiers,Copiers Model 657,Consumer,9,5266.53,0,1769.67
+ORD-1137,2025-08-18,Rohan Mehta,South,Office Supplies,Storage,Storage Model 157,Consumer,8,3074.88,0.3,284.98
+ORD-1016,2025-12-16,Arjun Singh,West,Technology,Machines,Machines Model 873,Home Office,10,2625.4,0,862.9
+ORD-1103,2024-02-16,Ananya Gupta,South,Office Supplies,Storage,Storage Model 379,Home Office,3,1425.33,0,298.26
+ORD-1060,2024-09-30,Aarav Sharma,East,Furniture,Tables,Tables Model 832,Corporate,10,4112.5,0.1,625.5
+ORD-1148,2024-05-01,Meera Pillai,South,Furniture,Furnishings,Furnishings Model 559,Consumer,8,2977.6,0.3,572.27
+ORD-1017,2025-02-03,Rahul Bhat,North,Technology,Accessories,Accessories Model 330,Home Office,8,4330.16,0.1,336.33
+ORD-1045,2023-12-14,Pooja Desai,West,Office Supplies,Art,Art Model 734,Corporate,11,710.71,0.15,150.52
+ORD-1128,2025-11-15,Karan Malhotra,North,Technology,Machines,Machines Model 794,Corporate,2,,0,58.56
+ORD-1164,2024-08-24,Ananya Gupta,South,Furniture,Furnishings,Furnishings Model 413,Consumer,6,450.12,0,111.75
+ORD-1047,2025-10-09,Rahul Bhat,West,Furniture,Furnishings,Furnishings Model 868,Corporate,7,1104.11,0.2,226.37
+ORD-1180,2023-05-03,Rohan Mehta,South,Furniture,Furnishings,Furnishings Model 448,Corporate,3,816.51,0.1,139.13
+ORD-1023,2024-04-29,Rohan Mehta,East,Technology,Phones,Phones Model 510,Consumer,3,758.25,0.1,77.88
+ORD-1114,2023-12-23,Aarav Sharma,North,Office Supplies,Paper,Paper Model 216,Home Office,5,228.25,0.2,32.19
+ORD-1119,2025-04-27,Isha Kapoor,South,Technology,Accessories,Accessories Model 197,Corporate,6,2994.24,0.1,471.05
+ORD-1174,2023-06-01,Divya Menon,South,Technology,Machines,Machines Model 577,Home Office,3,1751.52,0.2,101.24
+ORD-1115,2025-11-17,Meera Pillai,South,Technology,Phones,Phones Model 729,Corporate,10,788.0,0.15,78.01
+ORD-1140,2023-03-22,Ananya Gupta,East,Office Supplies,Binders,Binders Model 724,Corporate,4,1715.84,0.1,320.0
+ORD-1088,2024-07-19,Rohan Mehta,West,Office Supplies,Paper,Paper Model 940,Home Office,7,1496.81,0.3,211.99
+ORD-1097,2025-10-16,Isha Kapoor,South,Furniture,Tables,Tables Model 570,Consumer,10,987.2,0.1,214.45
+ORD-1125,2023-10-18,Rohan Mehta,South,Furniture,Tables,Tables Model 643,Consumer,12,4624.92,0,358.56
+ORD-1154,2023-01-11,Sanjay Reddy,South,Technology,Accessories,Accessories Model 661,Home Office,2,52.24,0,15.7
+ORD-1124,2024-01-05,Aarav Sharma,North,Technology,Phones,Phones Model 459,Home Office,5,2130.4,0,695.49
+ORD-1021,2025-04-04,Priya Nair,East,Office Supplies,Binders,Binders Model 296,Home Office,12,2561.88,0.3,148.45
+ORD-1165,2025-06-28,Ananya Gupta,South,Office Supplies,Labels,Labels Model 461,Home Office,6,1659.42,0.2,412.88
+ORD-1070,2024-04-10,Neha Verma,West,Technology,Copiers,Copiers Model 229,Consumer,6,719.82,0,188.88
+ORD-1018,2023-01-15,Isha Kapoor,West,Furniture,Bookcases,Bookcases Model 132,Consumer,2,858.18,0,101.85
+ORD-1008,2024-04-14,Priya Nair,North,Technology,Accessories,Accessories Model 316,Home Office,1,485.95,0.1,57.0
+ORD-1132,2024-08-15,Divya Menon,South,Office Supplies,Labels,Labels Model 732,Corporate,2,503.88,0,51.18
+ORD-1120,2023-11-09,,North,Office Supplies,Art,Art Model 187,Corporate,,6104.45,0,472.29
+ORD-1071,2025-10-02,Vikram Rao,North,Office Supplies,Binders,Binders Model 590,Consumer,2,1051.08,0.15,120.88
+ORD-1027,2023-03-23,Isha Kapoor,East,Technology,Accessories,Accessories Model 635,Corporate,10,629.6,0.2,113.38
+ORD-1053,2025-09-03,Rahul Bhat,East,Office Supplies,Labels,Labels Model 973,Home Office,1,566.5,0,156.38
+ORD-1020,2024-01-25,Divya Menon,South,Technology,Machines,Machines Model 520,Consumer,2,143.4,0.1,20.17
+ORD-1175,2025-06-05,Vikram Rao,West,Technology,Copiers,Copiers Model 630,Consumer,9,4929.93,0,1476.11
+ORD-1041,2025-11-30,Aarav Sharma,South,Furniture,Bookcases,Bookcases Model 301,Consumer,9,3751.29,0.2,813.61
+ORD-1057,2024-05-31,Divya Menon,North,Office Supplies,Storage,Storage Model 458,Corporate,2,580.26,0.2,98.33
+ORD-1110,2023-07-23,Meera Pillai,West,Furniture,Furnishings,Furnishings Model 507,Corporate,11,2528.79,0.2,318.83
+ORD-1152,2025-04-29,Aarav Sharma,North,Furniture,Tables,Tables Model 183,Corporate,1,246.93,0,29.81
+ORD-1106,2023-08-10,Meera Pillai,South,Technology,Copiers,Copiers Model 674,Home Office,11,1669.69,0,393.82
+ORD-1092,2023-02-01,Sanjay Reddy,East,Office Supplies,Binders,Binders Model 258,Corporate,12,1191.96,0.3,205.62
+ORD-1005,2025-01-10,Neha Verma,East,Technology,Phones,Phones Model 333,Corporate,10,1274.9,0,81.27
+ORD-1032,2023-04-15,Arjun Singh,South,Technology,Copiers,Copiers Model 103,Home Office,2,772.12,0.3,71.89
+ORD-1160,2023-10-04,Ananya Gupta,South,Technology,Machines,Machines Model 306,Home Office,2,867.78,0.1,47.72
+ORD-1049,2025-10-30,,North,Office Supplies,Labels,Labels Model 262,Home Office,7,3506.16,0.15,547.69
+ORD-1080,2024-07-05,Aarav Sharma,West,Office Supplies,Binders,Binders Model 631,Consumer,10,385.4,0.3,27.67
+ORD-1159,2023-10-01,Aditya Joshi,East,Office Supplies,Paper,Paper Model 279,Home Office,1,221.09,0,65.01
+ORD-1156,2025-11-21,Aarav Sharma,South,Office Supplies,Binders,Binders Model 101,Consumer,10,1565.3,0,215.04
+ORD-1022,2024-07-24,Ananya Gupta,South,Furniture,Furnishings,Furnishings Model 982,Consumer,8,1289.12,0,235.83
+ORD-1028,2024-06-27,Isha Kapoor,North,Office Supplies,Storage,Storage Model 423,Consumer,7,640.92,0.2,71.78
+ORD-1151,2023-06-21,Neha Verma,East,Office Supplies,Labels,Labels Model 547,Consumer,3,523.74,0.15,41.94
+ORD-1007,2025-12-29,Ananya Gupta,East,Furniture,Bookcases,Bookcases Model 755,Home Office,12,1898.52,0.1,279.94
+ORD-1030,2025-12-19,Neha Verma,South,Office Supplies,Storage,Storage Model 779,Consumer,1,405.7,0.15,48.21
+ORD-1161,2025-11-21,Neha Verma,North,Furniture,Tables,Tables Model 137,Consumer,7,4155.48,0.15,678.24
+ORD-1171,2024-10-16,Rohan Mehta,South,Furniture,Furnishings,Furnishings Model 397,Consumer,11,2400.64,0,516.14
+ORD-1158,2025-03-03,Priya Nair,South,Technology,Phones,Phones Model 169,Corporate,,980.34,0,154.04
+ORD-1034,2023-10-31,Meera Pillai,East,Technology,Accessories,Accessories Model 915,Home Office,7,626.92,0,99.93
+ORD-1112,2024-02-29,Rohan Mehta,West,Furniture,Tables,Tables Model 892,Home Office,10,1413.3,0.3,118.62
+ORD-1077,2023-08-24,Divya Menon,West,Furniture,Tables,Tables Model 946,Corporate,9,1318.59,0,425.28
+ORD-1004,2025-01-05,Sneha Iyer,South,Office Supplies,Binders,Binders Model 570,Consumer,6,2209.08,0.3,97.47
+ORD-1081,2025-10-04,Divya Menon,West,Technology,Machines,Machines Model 786,Corporate,2,579.92,0.1,78.29
+ORD-1089,2023-11-01,Pooja Desai,North,Furniture,Bookcases,Bookcases Model 881,Home Office,,2640.56,0,395.38
+ORD-1163,2025-10-13,Ananya Gupta,North,Technology,Machines,Machines Model 920,Corporate,12,3672.6,0.3,529.03
+ORD-1102,2024-09-24,Priya Nair,East,Technology,Accessories,Accessories Model 192,Home Office,8,276.16,0,74.48
+ORD-1040,2024-10-04,Meera Pillai,South,Furniture,Chairs,Chairs Model 690,Home Office,7,2587.41,0.15,186.27
+ORD-1075,2023-06-16,Arjun Singh,West,Furniture,Chairs,Chairs Model 102,Consumer,,465.96,0.15,28.72
+ORD-1054,2024-03-25,Pooja Desai,West,Office Supplies,Labels,Labels Model 784,Home Office,5,1349.8,0,224.95
+ORD-1015,2025-09-22,Rohan Mehta,East,Furniture,Tables,Tables Model 231,Home Office,2,1174.24,0.15,279.22
+ORD-1149,2025-01-23,Karan Malhotra,South,Furniture,Tables,Tables Model 388,Corporate,11,6259.77,0.1,1061.99
+ORD-1043,2024-01-28,Vikram Rao,North,Office Supplies,Art,Art Model 278,Home Office,7,2827.86,0.1,644.4
+ORD-1048,2023-04-13,Sanjay Reddy,West,Furniture,Furnishings,Furnishings Model 236,Consumer,9,1447.02,0.3,87.52
+ORD-1177,2024-09-12,Vikram Rao,North,Furniture,Bookcases,Bookcases Model 706,Consumer,10,3270.8,0.15,673.63
+ORD-1105,2025-03-19,Rohan Mehta,North,Technology,Machines,Machines Model 788,Home Office,1,169.71,0,31.64
+ORD-1061,2024-09-09,Sneha Iyer,West,Furniture,Chairs,Chairs Model 679,Home Office,11,4028.64,0,1163.75
+ORD-1123,2025-01-22,Meera Pillai,East,Furniture,Furnishings,Furnishings Model 539,Consumer,2,922.24,0.15,92.38
+ORD-1089,2023-11-01,Pooja Desai,North,Furniture,Bookcases,Bookcases Model 881,Home Office,,2640.56,0,395.38
+ORD-1095,2023-12-07,Sanjay Reddy,East,Furniture,Furnishings,Furnishings Model 915,Consumer,12,2282.28,0,145.6
+ORD-1063,2023-11-10,Sanjay Reddy,North,Office Supplies,Binders,Binders Model 376,Corporate,7,826.28,0.15,238.54
+ORD-1069,2024-01-28,Ananya Gupta,East,Furniture,Tables,Tables Model 878,Corporate,,1788.32,0,478.15
+ORD-1066,2025-11-24,Aarav Sharma,North,Office Supplies,Storage,Storage Model 668,Corporate,4,260.32,0.2,35.81
+ORD-1107,2024-09-10,Sanjay Reddy,East,Office Supplies,Labels,Labels Model 138,Consumer,11,2792.35,0,177.6
+ORD-1065,2023-02-28,Aditya Joshi,South,Furniture,Furnishings,Furnishings Model 463,Home Office,8,4102.48,0,805.17
+ORD-1044,2024-08-10,Neha Verma,East,Technology,Copiers,Copiers Model 429,Corporate,4,1065.92,0.15,210.2
+ORD-1076,2023-03-08,Neha Verma,South,Office Supplies,Art,Art Model 564,Home Office,4,734.16,0,191.54
+ORD-1135,2023-07-30,Isha Kapoor,West,Office Supplies,Storage,Storage Model 878,Home Office,3,494.22,0,114.03
+ORD-1108,2023-10-05,Isha Kapoor,East,Office Supplies,Art,Art Model 813,Consumer,7,1962.66,0.2,525.7
+ORD-1095,2023-12-07,Sanjay Reddy,East,Furniture,Furnishings,Furnishings Model 915,Consumer,12,2282.28,0,145.6
+ORD-1079,2023-06-14,Sanjay Reddy,South,Office Supplies,Labels,Labels Model 718,Home Office,,383.2,0.1,93.24
+ORD-1145,2025-01-12,Aarav Sharma,North,Furniture,Furnishings,Furnishings Model 884,Home Office,5,602.25,0,91.85
+ORD-1042,2023-09-13,Aditya Joshi,North,Office Supplies,Art,Art Model 518,Consumer,12,6498.36,0.15,788.69
+ORD-1082,2024-08-13,Pooja Desai,South,Furniture,Tables,Tables Model 137,Corporate,11,6247.34,0.3,1216.39
+ORD-1084,2025-11-27,Karan Malhotra,East,Technology,Machines,Machines Model 878,Corporate,6,,0.1,486.63
+ORD-1178,2023-02-28,Priya Nair,North,Technology,Accessories,Accessories Model 371,Consumer,2,83.2,0.2,18.72
+ORD-1132,2024-08-15,Divya Menon,South,Office Supplies,Labels,Labels Model 732,Corporate,2,503.88,0,51.18
+ORD-1039,2023-02-26,Aditya Joshi,South,Office Supplies,Storage,Storage Model 371,Home Office,2,1056.14,0,109.38
+ORD-1117,2023-09-16,Rohan Mehta,West,Furniture,Chairs,Chairs Model 432,Corporate,5,1901.15,0.15,346.64
+ORD-1133,2024-05-13,Sneha Iyer,South,Office Supplies,Storage,Storage Model 991,Consumer,7,2516.43,0.15,157.42
+ORD-1122,2024-08-12,Priya Nair,South,Office Supplies,Storage,Storage Model 317,Home Office,10,1977.8,0,441.79
+ORD-1086,2023-07-10,Divya Menon,East,Furniture,Tables,Tables Model 220,Corporate,4,2381.88,0,448.83
+ORD-1036,2023-02-20,Divya Menon,West,Furniture,Tables,Tables Model 521,Consumer,3,1337.67,0,380.86
+ORD-1010,2024-03-25,Meera Pillai,South,Office Supplies,Labels,Labels Model 981,Corporate,3,939.21,0,259.91
+ORD-1169,2023-08-21,Isha Kapoor,North,Office Supplies,Storage,Storage Model 675,Home Office,1,445.37,0.1,82.3
+ORD-1011,2023-05-11,Divya Menon,West,Furniture,Tables,Tables Model 666,Home Office,7,1667.75,0.1,313.3
+ORD-1129,2024-03-27,Priya Nair,North,Technology,Machines,Machines Model 408,Home Office,7,4136.3,0,216.35
+ORD-1037,2025-02-22,Sneha Iyer,West,Technology,Accessories,Accessories Model 571,Corporate,1,517.28,0,56.83
+ORD-1131,2025-03-24,Rohan Mehta,North,Technology,Accessories,Accessories Model 179,Home Office,12,477.0,0,89.64
+ORD-1051,2024-10-16,Aditya Joshi,North,Technology,Copiers,Copiers Model 810,Consumer,9,559.26,0,66.76
+ORD-1037,2025-02-22,Sneha Iyer,West,Technology,Accessories,Accessories Model 571,Corporate,1,517.28,0,56.83
+ORD-1170,2024-08-07,Karan Malhotra,South,Furniture,Bookcases,Bookcases Model 238,Corporate,12,6613.68,0.1,655.07
+ORD-1143,2024-09-27,Meera Pillai,West,Furniture,Bookcases,Bookcases Model 825,Consumer,11,4659.71,0.1,371.92
+ORD-1087,2025-04-30,Arjun Singh,North,Technology,Accessories,Accessories Model 248,Corporate,8,4707.52,0,880.48
+ORD-1096,2023-10-26,Divya Menon,North,Furniture,Bookcases,Bookcases Model 284,Corporate,4,1302.92,0.15,281.9
+ORD-1101,2024-03-24,Meera Pillai,West,Technology,Machines,Machines Model 838,Corporate,11,,0,351.76
+ORD-1025,2024-03-21,,West,Technology,Machines,Machines Model 421,Consumer,1,353.82,0.15,20.54
+ORD-1033,2025-06-23,Ananya Gupta,North,Office Supplies,Paper,Paper Model 177,Home Office,9,3850.38,0.15,173.14
+ORD-1031,2023-11-15,Sneha Iyer,East,Furniture,Tables,Tables Model 308,Corporate,5,899.15,0,238.53
+ORD-1072,2025-09-05,Arjun Singh,East,Office Supplies,Storage,Storage Model 690,Consumer,2,991.88,0.1,176.33
+ORD-1141,2025-04-17,Rahul Bhat,North,Furniture,Bookcases,Bookcases Model 762,Corporate,6,2472.96,0,709.17
+ORD-1116,2025-09-07,Priya Nair,East,Furniture,Bookcases,Bookcases Model 554,Corporate,7,1850.59,0,364.72
+ORD-1130,2023-09-03,Aditya Joshi,North,Furniture,Tables,Tables Model 489,Corporate,1,305.97,0.1,28.28
+ORD-1099,2025-02-26,Karan Malhotra,North,Technology,Copiers,Copiers Model 688,Corporate,8,619.12,0.1,123.46
+ORD-1019,2025-09-21,Arjun Singh,West,Office Supplies,Binders,Binders Model 684,Home Office,4,1321.8,0.2,349.65
+ORD-1179,2025-10-16,Aarav Sharma,South,Technology,Accessories,Accessories Model 594,Home Office,11,3675.76,0.2,990.97
+ORD-1142,2024-08-04,Rahul Bhat,East,Office Supplies,Binders,Binders Model 717,Corporate,5,2191.9,0.2,595.01
+ORD-1093,2023-06-14,Rahul Bhat,North,Furniture,Furnishings,Furnishings Model 424,Corporate,6,3081.72,0.3,453.2
+ORD-1050,2024-07-21,Isha Kapoor,North,Technology,Machines,Machines Model 179,Corporate,9,2686.41,0,355.62
+ORD-1144,2023-09-19,Aditya Joshi,South,Furniture,Bookcases,Bookcases Model 639,Home Office,11,4687.76,0.2,1309.38
+ORD-1146,2023-06-08,Vikram Rao,West,Office Supplies,Paper,Paper Model 652,Consumer,5,2544.95,0,514.86
+ORD-1014,2023-02-09,Pooja Desai,North,Furniture,Chairs,Chairs Model 345,Home Office,2,1117.04,0.3,228.35
+ORD-1103,2024-02-16,Ananya Gupta,South,Office Supplies,Storage,Storage Model 379,Home Office,3,1425.33,0,298.26
+ORD-1012,2023-08-17,Aditya Joshi,North,Furniture,Chairs,Chairs Model 839,Home Office,5,1346.7,0.1,61.78
+ORD-1172,2025-11-07,Meera Pillai,West,Office Supplies,Paper,Paper Model 342,Home Office,4,344.0,0,98.94
+ORD-1104,2023-08-24,Aditya Joshi,North,Furniture,Bookcases,Bookcases Model 331,Corporate,8,4626.32,0,1278.0
+ORD-1094,2024-04-25,Rohan Mehta,East,Technology,Machines,Machines Model 864,Home Office,11,4569.07,0,1595.65
+ORD-1068,2024-11-08,Divya Menon,North,Technology,Copiers,Copiers Model 336,Corporate,6,2557.02,0,363.06
+ORD-1035,2024-12-25,Sneha Iyer,West,Furniture,Bookcases,Bookcases Model 867,Consumer,9,4789.98,0.1,1475.01
+ORD-1111,2024-03-10,Rohan Mehta,South,Office Supplies,Paper,Paper Model 441,Consumer,11,4280.1,0,278.95
+ORD-1028,2024-06-27,Isha Kapoor,North,Office Supplies,Storage,Storage Model 423,Consumer,7,640.92,0.2,71.78
+ORD-1003,2023-01-14,Arjun Singh,South,Technology,Machines,Machines Model 320,Consumer,3,1270.23,0,169.4
+ORD-1138,2025-07-14,Sanjay Reddy,North,Office Supplies,Labels,Labels Model 760,Consumer,1,48.28,0.3,4.6
+ORD-1074,2025-06-25,Sanjay Reddy,South,Technology,Accessories,Accessories Model 735,Home Office,5,2591.0,0.1,330.23
+ORD-1121,2023-05-03,Vikram Rao,North,Furniture,Furnishings,Furnishings Model 225,Consumer,10,5746.3,0.15,727.25
+ORD-1173,2023-09-23,Sanjay Reddy,North,Office Supplies,Binders,Binders Model 834,Corporate,10,5322.8,0,760.03
+ORD-1168,2025-01-31,Meera Pillai,South,Technology,Accessories,Accessories Model 475,Home Office,8,3691.2,0.15,286.48
+ORD-1153,2024-11-17,Sneha Iyer,North,Office Supplies,Paper,Paper Model 583,Consumer,3,286.5,0,93.18
+ORD-1127,2023-04-12,Ananya Gupta,West,Technology,Phones,Phones Model 597,Consumer,11,690.03,0.1,154.38
+ORD-1073,2023-06-24,Neha Verma,West,Technology,Phones,Phones Model 710,Consumer,4,337.16,0.3,41.27
+ORD-1034,2023-10-31,Meera Pillai,East,Technology,Accessories,Accessories Model 915,Home Office,7,626.92,0,99.93
+ORD-1013,2024-09-03,Sneha Iyer,West,Technology,Copiers,Copiers Model 880,Home Office,11,3431.78,0,328.94
+ORD-1091,2023-11-08,Rahul Bhat,South,Office Supplies,Art,Art Model 704,Home Office,8,4635.36,0,930.26
+ORD-1150,2024-02-13,Ananya Gupta,South,Office Supplies,Labels,Labels Model 592,Home Office,10,959.6,0,63.0
+ORD-1056,2025-08-03,Vikram Rao,South,Furniture,Chairs,Chairs Model 565,Home Office,3,133.26,0.1,17.77
+ORD-1062,2023-05-22,Meera Pillai,South,Furniture,Bookcases,Bookcases Model 942,Home Office,9,3544.29,0,1080.56
+ORD-1118,2025-11-01,Sanjay Reddy,North,Office Supplies,Labels,Labels Model 973,Home Office,10,2666.7,0.3,486.34
